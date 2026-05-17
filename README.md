@@ -4,9 +4,11 @@
 
 ## Ducky v2 Capsule Build
 
-<img width="300" src="https://github.com/user-attachments/assets/60062f5b-7e2c-4fcf-8184-a2e4e0b05144" />
+<img height="240" src="https://github.com/user-attachments/assets/cb8d028f-ef57-4685-b75b-489b14b2ce7e" />
 
-<img width="300" src="https://github.com/user-attachments/assets/1cf8266e-eff5-4ede-8b67-ade121086f4d" />
+<img height="240" src="https://github.com/user-attachments/assets/60062f5b-7e2c-4fcf-8184-a2e4e0b05144" />
+
+<img height="240" src="https://github.com/user-attachments/assets/1cf8266e-eff5-4ede-8b67-ade121086f4d" />
 
 ## Ducky v1 K'NEX Build
 
