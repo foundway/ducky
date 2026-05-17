@@ -1,5 +1,11 @@
 # Work Journal
 
+## 5/17 Progress Supplement
+
+<img height="240" src="https://github.com/user-attachments/assets/0803aecf-e89e-4fbf-8950-5539b59db14f" />
+
+Change the configuration for better access to the screen (for QR code scanning).
+
 ## 5/17 Progress
 
 <img height="240" src="https://github.com/user-attachments/assets/cb8d028f-ef57-4685-b75b-489b14b2ce7e" />
