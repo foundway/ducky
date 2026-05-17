@@ -1,6 +1,6 @@
 # Ducky • A one-servo robot experiment
 
-[[Work Journal]]
+[Work Journal](./JOURNAL.md)
 
 ## Ducky v2 Capsule Build
 
