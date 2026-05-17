@@ -1,6 +1,6 @@
 # Ducky • A one-servo robot experiment
 
-[Work Journal](./JOURNAL.md)
+[Work Journal](./JOURNAL.md) • [UI Flow](https://flow.m5stack.com/)
 
 ## Ducky v2 Capsule Build
 
